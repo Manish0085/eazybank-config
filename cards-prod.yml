@@ -2,7 +2,7 @@ build:
   version: "5.0"
 
 cards:
-  message: "Welcome to the EazyBank card related service"
+  message: "Welcome to the EazyBank card related Prod APIs"
   contactDetails:
     name: "Amit Kumar - PROD Head"
     email: "amit@eazybank.com"
