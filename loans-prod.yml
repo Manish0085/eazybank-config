@@ -2,7 +2,7 @@ build:
   version: "1.9"
 
 loans:
-  message: "Welcome to the EazyBank loan related to prod APIs"
+  message: "Welcome to the EazyBank loan related to webhook APIs"
   contactDetails:
     name: "Arpit Jaiswal - Prod Head"
     email: "arpit@eazybank.com"
